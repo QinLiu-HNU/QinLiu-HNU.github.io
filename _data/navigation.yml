@@ -4,12 +4,12 @@ main:
     url: /publications/
 
   - title: "Professional Activities"
-    url: /activities/    
+    url: /talks/    
 
   - title: "Research Fundings"
-    url: /fundings/    
+    url: /teaching/    
     
   - title: "Contact"
-    url: /contact/
+    url: /portfolio/
         
 
