@@ -1,10 +1,10 @@
 **Journal Paper**
 
-1. **Q. Liu**, Y. Tian, J. Wu, T. Peng, and G. Wang, "Enabling Verifiable and Dynamic RankedSearch Over Outsourced Data," Transactions on Services Computing, 2019. 
+1. **Q. Liu**, Y. Tian, J. Wu, T. Peng, and G. Wang, "Enabling Verifiable and Dynamic RankedSearch Over Outsourced Data," IEEE Transactions on Services Computing, 2019. 
 
 2. **Q. Liu**, P. Hou, G. Wang, T. Peng, and S. Zhang, "IntelligentRoute Planning on Large Road Networks with Efficiency and Privacy," Journal ofParallel and Distributed Computing, 2019. 
 
-3. L. Du, K. Li*, **Q. Liu\***, Z. Wua, S. Zhang, "Dynamic Multi-Client Searchable Symmetric Encryption with Support for Boolean Queries, Information Sciences," 2019. 
+3. L. Du, K. Li*, **Q. Liu\***, Z. Wua, S. Zhang, "Dynamic Multi-Client Searchable Symmetric Encryption with Support for Boolean Queries," Information Sciences, 2019. 
 
 4. Xin Yao, Yizhu Zou, Zhigang Chen*, Ming Zhao, and **Qin Liu\***, "Topic-based Rank Search with Verifiable Social Data Outsourcing," Journal ofParallel and Distributed Computing, 2019.
 
