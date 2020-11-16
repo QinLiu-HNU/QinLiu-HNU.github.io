@@ -1,4 +1,4 @@
-**Conference Paper**
+**Journal Paper**
 
 1. **Q. Liu**, Y. Tian, J. Wu, T. Peng, and G. Wang, "Enabling Verifiable and Dynamic RankedSearch Over Outsourced Data," Transactions on Services Computing, 2019. 
 
@@ -34,7 +34,7 @@
 
 17. G. Wang, **Q. Liu**, and J. Wu, "Achieving Fine-Grained Access Control for Secure Data Sharing on Cloud Servers," Concurrency and Computation:Practice and Experience, 2011.
 
-## Conference Paper
+**Conference Paper**
 
   1. **Q. Liu**, S. Wu, S. Pei, J. Wu, T. Peng, and G. Wang, " Secure and Efficient Multi-Attribute Range Queries based on Comparable Inner Product Encoding," Proc. CNS 2018.
 
@@ -68,7 +68,7 @@
 
   16. **Q. Liu**, G. Wang, and J. Wu, " An Efficient Privacy Preserving Keyword Search Scheme in Cloud Computing," Proc. of IEEE TrustCom 2009.
 
-## Other Paper
+**Other Paper**
 
 - T. Peng, **Q. Liu**, G. Wang, Y.Xiang and S.Chen, "Multidimensional privacy preservation in location-based services," Future Generation Computer Systems, 2019, 312-326.
 - Q. Zhang, G. Wang, **Q. Liu**, "Enabling Cooperative Privacy-preserving Personalized Search in Cloud Environments," Information Sciences, 2018.
