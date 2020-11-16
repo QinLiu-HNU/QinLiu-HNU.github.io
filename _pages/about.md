@@ -15,7 +15,6 @@ I received B.Sc. in Computer Science in 2004 from Hunan Normal University, China
 - 2010.9-2012.9  Temple University, Visiting Student, **Supervisor: [Dr. Jie Wu](https://cis.temple.edu/~jiewu/)**
 - 2008.9-2012.12  Central South University, Doctoral Student, **Supervisor: [Dr. Guojun Wang](http://trust.gzhu.edu.cn/faculty/~csgjwang/)**
 - 2004.9-2007.7  Central South University, Master
-
 - 2000.9-2004.7  Hunan Normal Uinversity, Bachelor
 
 ## **Research Area**
