@@ -1,5 +1,5 @@
 **Journal Paper**
-1. **Q. Liu**, Y. Peng, S. Pei, J. Wu, T. Peng, and G. Wang, "Prime Inner Product Encoding for Effective Wildcard-based Multi-Keyword Fuzzy Search," IEEE Transactions on Services Computing, 2019. 
+1. **Q. Liu**, Y. Peng, S. Pei, J. Wu, T. Peng, and G. Wang, "Prime Inner Product Encoding for Effective Wildcard-based Multi-Keyword Fuzzy Search," IEEE Transactions on Services Computing, 2020. 
 
 2. **Q. Liu**, Y. Tian, J. Wu, T. Peng, and G. Wang, "Enabling Verifiable and Dynamic RankedSearch Over Outsourced Data," Transactions on Services Computing, 2019. 
 
