@@ -86,7 +86,7 @@ author:
   location         : "Hunan, China"
   employer         :
   PUBLONS          : "https://publons.com/researcher/3504610/qin-liu/"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://x.sci-hub.org.cn/citations?user=2zTr37gAAAAJ&hl=zh-TW&oi=ao"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/QinLiu-HNU"
+  github           : "QinLiu-HNU"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter1         : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
