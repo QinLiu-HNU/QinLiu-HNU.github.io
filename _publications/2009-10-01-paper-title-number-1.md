@@ -13,3 +13,7 @@ This paper is about the number 1. The number 2 is left for future work.
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
 Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+
+T. Peng, **Q. Liu**, and B. Hu, " Dynamic Keyword Search With Hierarchical Attributes in Cloud Computing,"  IEEE Access, 2018.
+
+X. Liu, **Q. Liu**, T. Peng, and J. Wu, " Dynamic Access Policy in Cloud-Based Personal Health Record (PHR) Systems," Information Sciences, 2017.
