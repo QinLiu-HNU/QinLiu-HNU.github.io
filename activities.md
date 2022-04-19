@@ -2,7 +2,7 @@
 
 - Journal of Parallel and Distributed Computing(JPDC)
 - Future Generation Computer Systems(FGCS)
-- Concurrency and Computation: Practice and Experience
+- Concurrency and Computation: Practice and Experience(CPEE)
 - Computer Applications in Engineering Education(CAEE)
 - Journal of Computational Science and Engineering(IJCSE)
 
