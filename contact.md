@@ -1,6 +1,6 @@
 **Mail Address**
 
-Software Building #436, College of Computer Science and Electronic Engineering, Hunan University, Changsha, Hunan Province, 410082, P.R. China
+Software Building #568, College of Computer Science and Electronic Engineering, Hunan University, Changsha, Hunan Province, 410082, P.R. China
 
  
 
