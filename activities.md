@@ -20,4 +20,4 @@
 **Program Committee Member**
 
 - INFOCOM 2018-2023
-- TrustCom 2017-2022
+- TrustCom 2017-2023
