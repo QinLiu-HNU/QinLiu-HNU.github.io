@@ -12,9 +12,9 @@
 
 6. **Q. Liu**, Y. Peng, H. Jiang, J. Wu, T. Wang, T. Peng, and G. Wang, "SlimBox: Lightweight packet inspection over encrypted traffic," IEEE Transactions on Dependable and Secure Computing, 2023.
 
-7.  **Q.Liu**, Y. Tian, J. Wu, T. Peng, and G. Wang, "Enabling verifiable and dynamic ranked search over outsourced data," IEEE Transactions on Services Computing, 2022.
+7. **Q. Liu**, Y. Peng, S. Pei, J. Wu, T. Peng, and G. Wang, "Prime Inner Product Encoding for Effective Wildcard-based Multi-Keyword Fuzzy Search," IEEE Transactions on Services Computing, 2022.
 
-8. **Q. Liu**, Y. Peng, S. Pei, J. Wu, T. Peng, and G. Wang, "Prime Inner Product Encoding for Effective Wildcard-based Multi-Keyword Fuzzy Search," IEEE Transactions on Services Computing, 2020.
+8. **Q.Liu**, Y. Tian, J. Wu, T. Peng, and G. Wang, "Enabling verifiable and dynamic ranked search over outsourced data," IEEE Transactions on Services Computing, 2022.
 
 9. **Q.Liu**, L. Chen, H. Jiang, J. Wu, T. Wang, T. Peng, and G. Wang, "A collaborative deep learning microservice for backdoor defenses in industrial IoT networks," Ad Hoc Networks, 2022.
 
