@@ -20,5 +20,7 @@ I received B.Sc. in Computer Science in 2004 from Hunan Normal University, China
 ## **Research Area**
 
 - Cloud Computing Security
+- Artificial Intelligence Security
+- Blockchain Security
 - Security and Privacy in Social Networks
 - Security and Privacy in Big Data
