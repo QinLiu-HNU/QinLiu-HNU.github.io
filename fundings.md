@@ -1,44 +1,21 @@
-- **Hunan Provincial Natural Science Foundation of China (Grant No. 2020JJ3015)**
+- **The Research on Multiplex Security Mechanism in Cloud-Edge Collaborative Search Environment**
+  PI: National Natural Science Foundation of China, 62272150, 2023.01-2026.12
 
-  Title: The Research on Key Technologies of Big Data Oriented Searchable Encryption
+- **The Research on Key Technologies of Big Data Oriented Searchable Encryption**
 
-  January 2020-December 2022
-  
+  PI: Hunan Provincial Natural Science Foundation of China, 2020JJ3015, 2020.01-2022.12
 
-- **National Natural Science Foundation of China (Grant No. 61872133)**
+- **The Research on Key Technologies of Big Data Oriented Searchable Encryption in Cloud Computing**
+  PI: National Natural Science Foundation of China, 61872133, 2019.01-2022.12
 
-  Title: The Research on Key Technologies of Big Data Oriented Searchable Encryption in Cloud Computing
+- **New-Generation Operating System for Network Computing and its Key Technologies**
+  PI (sub-project): Key Project of the National Natural Science Foundation of China, 61632009, 2017.01-2021.12
 
-  January 2019-December 2022
+- **Privacy Issues in Social Networks**
+  PI: CCF-Tencent Rhino Bird Fund Project, CCF-TencentIAGR20160113, 2016.07-2017.12
 
+- **Fine-Grained Encryption in Cloud Computing**
+  PI: National Natural Science Foundation of China, 61872133, 2015.01-2017.12
 
-
-- **Key Project of the National Natural Science Foundation of China (Grant No. 61632009)**
-
-  Title: New-Generation Operating System for Network Computing and its Key Technologies
-
-  January 2017-December 2021
-
-
-
-- **2016 CCF- Tencent  Rhino Bird Fund Project (Grant No. CCFTencentIAGR20160113)**
-
-  Title: Privacy Issues in Social Networks
-
-  July 2016-December 2017
-
-
-
-- **National Natural Science Foundation of China (Grant No. 61402161)**
-
-  Title: Fine-Grained Encryption in Cloud Computing
-
-  January 2015-December 2017
-
-
-
-- **2014 CCF- Tencent  Rhino Bird Fund Project (Grant No. CCF-TencentIAGR20140104)**
-
-  Title: Research on Big Data Security Mechanism based on Cloud Computing Platform
-
-  July 2014-December 2015
+- **Research on Big Data Security Mechanism based on Cloud Computing Platform**
+  PI: CCF-Tencent Rhino Bird Fund Project, CCF-TencentIAGR20140104, 2014.07-2015.12
