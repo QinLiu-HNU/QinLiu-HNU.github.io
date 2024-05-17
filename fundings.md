@@ -12,7 +12,7 @@
 
 - **New-Generation Operating System for Network Computing and its Key Technologies**
 
-  PI (sub-project): Key Project of the National Natural Science Foundation of China, 61632009, 2017.01-2021.12
+  PI: (sub-project): Key Project of the National Natural Science Foundation of China, 61632009, 2017.01-2021.12
 
 - **Privacy Issues in Social Networks**
 
