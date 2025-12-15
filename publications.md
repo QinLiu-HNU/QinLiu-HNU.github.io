@@ -56,43 +56,43 @@
 
 **Conference Paper**
 
-  1.Y. Zou, **Q. Liu***, J. Wu, Y. Peng, G. Chen, H. Zhou, and G. Ye, "Boosting Adversarial Transferability via Ensemble Non-Attention," Proc. of AAAI 2026. (CCF A)
+  1. Y. Zou, **Q. Liu***, J. Wu, Y. Peng, G. Chen, H. Zhou, and G. Ye, "Boosting Adversarial Transferability via Ensemble Non-Attention," Proc. of AAAI 2026. (CCF A)
   
-  2.  **Q. Liu**, J. Yang, H. Jiang, J. Wu, T. Peng, T. Wang, and G. Wang, "When deep learning meets steganography: Protecting inference privacy in the dark," Proc. of INFOCOM 2022. 
+  2. **Q. Liu**, J. Yang, H. Jiang, J. Wu, T. Peng, T. Wang, and G. Wang, "When deep learning meets steganography: Protecting inference privacy in the dark," Proc. of INFOCOM 2022. 
   
   3. Y. Peng, **Q. Liu\***, Y. Tian, J. Wu, T. Wang, T. Peng, and G. Wang, "Dynamic searchable symmetric encryption with forward and backward privacy," Proc. of TrustCom 2021.
+  
+  4. **Q. Liu**, S. Wu, S. Pei, J. Wu, T. Peng, and G. Wang, " Secure and Efficient Multi-Attribute Range Queries based on Comparable Inner Product Encoding," Proc. CNS 2018.
+  
+  5. **Q. Liu**, S. Pei, K. Xie, J. Wu, T. Peng, and G. Wang, " Achieving Secure and Effective Search Services in Cloud Computing," Proc. of TrustCom 2018.
+  
+  6. **Q. Liu**, X. Nie, X. Liu, T. Peng, and J. Wu, " Verifiable Ranked Search over Dynamic Encrypted Data in Cloud Computing," Proc. of IWQoS 2017.
+  
+  7. B. Hu, **Q. Liu**, X. Liu, T. Peng, G. Wang, J. Wu, " DABKS: Dynamic Attribute-based Keyword Search in Cloud Computing," Proc. of ICC 2017.
+  
+  8. X. Nie, **Q. Liu**, X. Liu, T. Peng, and Y. Lin, " Dynamic Verifiable Search over Encrypted Data in Untrusted Clouds," Proc. of ICA3PP 2016.
 
-  1. **Q. Liu**, S. Wu, S. Pei, J. Wu, T. Peng, and G. Wang, " Secure and Efficient Multi-Attribute Range Queries based on Comparable Inner Product Encoding," Proc. CNS 2018.
+  9. **Q. Liu**, G. Wang, J. Wu, and W. Chang, " User-Controlled Security Mechanism in Data-Centric Clouds," Proc. of HPCC 2015.
 
-  2. **Q. Liu**, S. Pei, K. Xie, J. Wu, T. Peng, and G. Wang, " Achieving Secure and Effective Search Services in Cloud Computing," Proc. of TrustCom 2018.
+  10. X. Liu, **Q. Liu**, T. Peng and J. Wu, " HCBE: Achieving Fine-Grained Access Control in Cloud-based PHR Systems," Proc. of ICA3PP 2015.
 
-  3. **Q. Liu**, X. Nie, X. Liu, T. Peng, and J. Wu, " Verifiable Ranked Search over Dynamic Encrypted Data in Cloud Computing," Proc. of IWQoS 2017.
+  11. G. Wang, **Q. Liu**, Y. Xiang, J. Chen," Security from the Transparent Computing Aspect," Proc. of ICNC 2014.
 
-  4. B. Hu, **Q. Liu**, X. Liu, T. Peng, G. Wang, J. Wu, " DABKS: Dynamic Attribute-based Keyword Search in Cloud Computing," Proc. of ICC 2017.
+  12. G. Wang, **Q. Liu**, F. Li, S. Yang, and J. Wu, " Outsourcing Privacy-Preserving Social Networks to a Cloud," Proc. of INFOCOM 2013.
 
-  5. X. Nie, **Q. Liu**, X. Liu, T. Peng, and Y. Lin, " Dynamic Verifiable Search over Encrypted Data in Untrusted Clouds," Proc. of ICA3PP 2016.
+  13. **Q. Liu**, C. C. Tan, J. Wu, and G. Wang, " Efficient Information Retrieval for Ranked Queries in Cost-Effective Cloud Environments," Proc of INFOCOM 2012.
 
-  6. **Q. Liu**, G. Wang, J. Wu, and W. Chang, " User-Controlled Security Mechanism in Data-Centric Clouds," Proc. of HPCC 2015.
+  14. **Q. Liu**, G. Wang , and J. Wu, " Clock-based Proxy Re-encryption Scheme in Unreliable Clouds," roc. of ICPP Workshop, 2012.
 
-  7. X. Liu, **Q. Liu**, T. Peng and J. Wu, " HCBE: Achieving Fine-Grained Access Control in Cloud-based PHR Systems," Proc. of ICA3PP 2015.
+  15. **Q. Liu**, Y. Guo, J. Wu, and G. Wang, " Dynamic Grouping in Cloud Computing," Proc. of CGC 2012.
 
-  8. G. Wang, **Q. Liu**, Y. Xiang, J. Chen," Security from the Transparent Computing Aspect," Proc. of ICNC 2014.
+  16. **Q. Liu**, C. C. Tan, J. Wu, and G. Wang, " Reliable Re-encryption in Unreliable Clouds," Proc. of IEEE GLOBECOM 2011.
 
-  9. G. Wang, **Q. Liu**, F. Li, S. Yang, and J. Wu, " Outsourcing Privacy-Preserving Social Networks to a Cloud," Proc. of INFOCOM 2013.
+  17. **Q. Liu**, G. Wang, and J. Wu, " Efficient Sharing of Secure Cloud Storage Services," Proc. of IEEE TSP 2010.
 
-  10. **Q. Liu**, C. C. Tan, J. Wu, and G. Wang, " Efficient Information Retrieval for Ranked Queries in Cost-Effective Cloud Environments," Proc of INFOCOM 2012.
+  18. G. Wang, **Q. Liu**, and J. Wu, " Hierarchical Attribute-Based Encryption for Fine-Grained Access Control in Cloud Computing," Proc. of ACM CCS 2010.
 
-  11. **Q. Liu**, G. Wang , and J. Wu, " Clock-based Proxy Re-encryption Scheme in Unreliable Clouds," roc. of ICPP Workshop, 2012.
-
-  12. **Q. Liu**, Y. Guo, J. Wu, and G. Wang, " Dynamic Grouping in Cloud Computing," Proc. of CGC 2012.
-
-  13. **Q. Liu**, C. C. Tan, J. Wu, and G. Wang, " Reliable Re-encryption in Unreliable Clouds," Proc. of IEEE GLOBECOM 2011.
-
-  14. **Q. Liu**, G. Wang, and J. Wu, " Efficient Sharing of Secure Cloud Storage Services," Proc. of IEEE TSP 2010.
-
-  15. G. Wang, **Q. Liu**, and J. Wu, " Hierarchical Attribute-Based Encryption for Fine-Grained Access Control in Cloud Computing," Proc. of ACM CCS 2010.
-
-  16. **Q. Liu**, G. Wang, and J. Wu, " An Efficient Privacy Preserving Keyword Search Scheme in Cloud Computing," Proc. of IEEE TrustCom 2009.
+  19. **Q. Liu**, G. Wang, and J. Wu, " An Efficient Privacy Preserving Keyword Search Scheme in Cloud Computing," Proc. of IEEE TrustCom 2009.
 
 **Other Paper**
 
