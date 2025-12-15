@@ -56,7 +56,7 @@
 
 **Conference Paper**
 
-  1. Y. Zou, **Q. Liu***, J. Wu, Y. Peng, G. Chen, H. Zhou, and G. Ye, "Boosting Adversarial Transferability via Ensemble Non-Attention," Proc. of AAAI 2026. (CCF A)
+  1. Y. Zou, **Q. Liu***, J. Wu, Y. Peng, G. Chen, H. Zhou, and G. Ye, "Boosting Adversarial Transferability via Ensemble Non-Attention," Proc. of AAAI 2026.
   
   2. **Q. Liu**, J. Yang, H. Jiang, J. Wu, T. Peng, T. Wang, and G. Wang, "When deep learning meets steganography: Protecting inference privacy in the dark," Proc. of INFOCOM 2022. 
   
