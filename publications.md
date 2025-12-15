@@ -56,9 +56,11 @@
 
 **Conference Paper**
 
-  1. **Q. Liu**, J. Yang, H. Jiang, J. Wu, T. Peng, T. Wang, and G. Wang, "When deep learning meets steganography: Protecting inference privacy in the dark," Proc. of INFOCOM 2022. 
+  1.Y. Zou, **Q. Liu***, J. Wu, Y. Peng, G. Chen, H. Zhou, and G. Ye, "Boosting Adversarial Transferability via Ensemble Non-Attention," Proc. of AAAI 2026. (CCF A)
   
-  2. Y. Peng, **Q. Liu\***, Y. Tian, J. Wu, T. Wang, T. Peng, and G. Wang, "Dynamic searchable symmetric encryption with forward and backward privacy," Proc. of TrustCom 2021.
+  2.  **Q. Liu**, J. Yang, H. Jiang, J. Wu, T. Peng, T. Wang, and G. Wang, "When deep learning meets steganography: Protecting inference privacy in the dark," Proc. of INFOCOM 2022. 
+  
+  3. Y. Peng, **Q. Liu\***, Y. Tian, J. Wu, T. Wang, T. Peng, and G. Wang, "Dynamic searchable symmetric encryption with forward and backward privacy," Proc. of TrustCom 2021.
 
   1. **Q. Liu**, S. Wu, S. Pei, J. Wu, T. Peng, and G. Wang, " Secure and Efficient Multi-Attribute Range Queries based on Comparable Inner Product Encoding," Proc. CNS 2018.
 
