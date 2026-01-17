@@ -1,58 +1,60 @@
 **Journal Paper**
 
-1. **Q. Liu**, Y. Peng, M. Xu, H. Jiang, J. Wu, T. Wang, T. Peng, and G. Wang, "MPV: Enabling fine-grained query authentication in hybrid-storage blockchain," IEEE Transactions on Knowledge and Data Engineering, 2024.
+1. Y. Zou, **Q. Liu**, J. Wu, T. Wang, G. Chen, T. Peng, and G. Wang, "CAA: Toward Camouflaged and Transferable Adversarial Examples," IEEE Transactions on Information Forensics and Security, 2026.
 
-2. **Q. Liu**, Y. Peng, Z. Tang, H. Jiang, J. Wu, T. Wang, T. Peng, and G. Wang, "veffChain: Enabling freshness authentication of rich queries over blockchain databases," IEEE Transactions on Knowledge and Data Engineering, 2024.
+2.  **Q. Liu**, Y. Peng, M. Xu, H. Jiang, J. Wu, T. Wang, T. Peng, and G. Wang, "MPV: Enabling fine-grained query authentication in hybrid-storage blockchain," IEEE Transactions on Knowledge and Data Engineering, 2024.
 
-3. **Q. Liu**, Y. Peng, H. Jiang, J. Wu, T. Wang, T. Peng, and G. Wang, "Authorized keyword search on mobile devices in secure data outsourcing," IEEE Transactions on Mobile Computing, 2024.
+3. **Q. Liu**, Y. Peng, Z. Tang, H. Jiang, J. Wu, T. Wang, T. Peng, and G. Wang, "veffChain: Enabling freshness authentication of rich queries over blockchain databases," IEEE Transactions on Knowledge and Data Engineering, 2024.
 
-4. S. Wang, **Q. Liu***, Y. Xu, H. Jiang, J. Wu, T. Wang, T. Peng, and G. Wang, "Protecting Inference Privacy With Accuracy Improvement in Mobile-Cloud Deep Learning," IEEE Transactions on Mobile Computing, 2024.
+4. **Q. Liu**, Y. Peng, H. Jiang, J. Wu, T. Wang, T. Peng, and G. Wang, "Authorized keyword search on mobile devices in secure data outsourcing," IEEE Transactions on Mobile Computing, 2024.
 
-5. **Q. Liu**, Y. Peng, Q. Xu, H. Jiang, J. Wu, T. Wang, T. Peng, G. Wang, and S. Zhang, "MARS: Enabling verifiable range-aggregate queries in multi-source environments," IEEE Transactions on Dependable and Secure Computing, 2023.
+5. S. Wang, **Q. Liu***, Y. Xu, H. Jiang, J. Wu, T. Wang, T. Peng, and G. Wang, "Protecting Inference Privacy With Accuracy Improvement in Mobile-Cloud Deep Learning," IEEE Transactions on Mobile Computing, 2024.
 
-6. **Q. Liu**, Y. Peng, H. Jiang, J. Wu, T. Wang, T. Peng, and G. Wang, "SlimBox: Lightweight packet inspection over encrypted traffic," IEEE Transactions on Dependable and Secure Computing, 2023.
+6. **Q. Liu**, Y. Peng, Q. Xu, H. Jiang, J. Wu, T. Wang, T. Peng, G. Wang, and S. Zhang, "MARS: Enabling verifiable range-aggregate queries in multi-source environments," IEEE Transactions on Dependable and Secure Computing, 2023.
 
-7. **Q. Liu**, Y. Peng, S. Pei, J. Wu, T. Peng, and G. Wang, "Prime Inner Product Encoding for Effective Wildcard-based Multi-Keyword Fuzzy Search," IEEE Transactions on Services Computing, 2022.
+7. **Q. Liu**, Y. Peng, H. Jiang, J. Wu, T. Wang, T. Peng, and G. Wang, "SlimBox: Lightweight packet inspection over encrypted traffic," IEEE Transactions on Dependable and Secure Computing, 2023.
 
-8. **Q.Liu**, Y. Tian, J. Wu, T. Peng, and G. Wang, "Enabling verifiable and dynamic ranked search over outsourced data," IEEE Transactions on Services Computing, 2022.
+8. **Q. Liu**, Y. Peng, S. Pei, J. Wu, T. Peng, and G. Wang, "Prime Inner Product Encoding for Effective Wildcard-based Multi-Keyword Fuzzy Search," IEEE Transactions on Services Computing, 2022.
 
-9. **Q.Liu**, L. Chen, H. Jiang, J. Wu, T. Wang, T. Peng, and G. Wang, "A collaborative deep learning microservice for backdoor defenses in industrial IoT networks," Ad Hoc Networks, 2022.
+9. **Q.Liu**, Y. Tian, J. Wu, T. Peng, and G. Wang, "Enabling verifiable and dynamic ranked search over outsourced data," IEEE Transactions on Services Computing, 2022.
 
-10. **Q.Liu**, Z. Hao, Y. Peng, H. Jiang, J. Wu, T. Peng G. Wang, and S. Zhang, "SecVKQ: Secure and verifiable kNN queries in sensor-cloud systems," Journal of Systems Architecture, 2021.
+10. **Q.Liu**, L. Chen, H. Jiang, J. Wu, T. Wang, T. Peng, and G. Wang, "A collaborative deep learning microservice for backdoor defenses in industrial IoT networks," Ad Hoc Networks, 2022.
 
-11. **Q.Liu**, Y. Peng, J. Wu, T. Wang, and G. Wang, "Secure multi-keyword fuzzy searches with enhanced service quality in cloud computing," IEEE Transactions on Network and Service Management, 2021.  
+11. **Q.Liu**, Z. Hao, Y. Peng, H. Jiang, J. Wu, T. Peng G. Wang, and S. Zhang, "SecVKQ: Secure and verifiable kNN queries in sensor-cloud systems," Journal of Systems Architecture, 2021.
 
-12. **Q. Liu**, P. Hou, G. Wang, T. Peng, and S. Zhang, "IntelligentRoute Planning on Large Road Networks with Efficiency and Privacy," Journal ofParallel and Distributed Computing, 2019. 
+12. **Q.Liu**, Y. Peng, J. Wu, T. Wang, and G. Wang, "Secure multi-keyword fuzzy searches with enhanced service quality in cloud computing," IEEE Transactions on Network and Service Management, 2021.  
 
-13. L. Du, K. Li*, **Q. Liu\***, Z. Wua, S. Zhang, "Dynamic Multi-Client Searchable Symmetric Encryption with Support for Boolean Queries, Information Sciences, 2019. 
+13. **Q. Liu**, P. Hou, G. Wang, T. Peng, and S. Zhang, "IntelligentRoute Planning on Large Road Networks with Efficiency and Privacy," Journal ofParallel and Distributed Computing, 2019. 
 
-14. Xin Yao, Yizhu Zou, Zhigang Chen*, Ming Zhao, and **Qin Liu\***, "Topic-based Rank Search with Verifiable Social Data Outsourcing," Journal ofParallel and Distributed Computing, 2019.
+14. L. Du, K. Li*, **Q. Liu\***, Z. Wua, S. Zhang, "Dynamic Multi-Client Searchable Symmetric Encryption with Support for Boolean Queries, Information Sciences, 2019. 
 
-15. T. Peng, **Q. Liu**, and B. Hu, " Dynamic Keyword Search With Hierarchical Attributes in Cloud Computing,"  IEEE Access, 2018.
+15. Xin Yao, Yizhu Zou, Zhigang Chen*, Ming Zhao, and **Qin Liu\***, "Topic-based Rank Search with Verifiable Social Data Outsourcing," Journal ofParallel and Distributed Computing, 2019.
 
-16. X. Liu, **Q. Liu**, T. Peng, and J. Wu, " Dynamic Access Policy in Cloud-Based Personal Health Record (PHR) Systems," Information Sciences, 2017.
+16. T. Peng, **Q. Liu**, and B. Hu, " Dynamic Keyword Search With Hierarchical Attributes in Cloud Computing,"  IEEE Access, 2018.
 
-17. **Q. Liu**, G. Wang, F. Li, S. Yang , and J. Wu, " Preserving Privacy with Probabilistic Indistinguishability in Weighted Social Networks,"  IEEE Transactions on Parallel and Distributed Systems, 2017.
+17. X. Liu, **Q. Liu**, T. Peng, and J. Wu, " Dynamic Access Policy in Cloud-Based Personal Health Record (PHR) Systems," Information Sciences, 2017.
 
-18. **Q. Liu**, Y. Guo, J. Wu, and G. Wang, " Effective Query Grouping Strategy in Clouds", Journal of Computer Science and Technology, 2017.
+18. **Q. Liu**, G. Wang, F. Li, S. Yang , and J. Wu, " Preserving Privacy with Probabilistic Indistinguishability in Weighted Social Networks,"  IEEE Transactions on Parallel and Distributed Systems, 2017.
 
-19. **Q. Liu**, G. Wang, X. Liu, T. Peng,and J. Wu," Achieving Reliable and Secure Services in Cloud Computing Environments,"Computers and Electrical Engineering, 2017.
+19. **Q. Liu**, Y. Guo, J. Wu, and G. Wang, " Effective Query Grouping Strategy in Clouds", Journal of Computer Science and Technology, 2017.
 
-20. S. Zhang, **Q. Liu**, and Y. Lin, " Anonymizing Popularity in Online Social Network With Full Utility," Future Generation Computer Systems, 2017.
+20. **Q. Liu**, G. Wang, X. Liu, T. Peng,and J. Wu," Achieving Reliable and Secure Services in Cloud Computing Environments,"Computers and Electrical Engineering, 2017.
 
-21. **Q. Liu**, G. Wang,J. Wu," Consistency as a Service: Auditing Cloud Consistency," IEEE Transactions on Network and Service Management,2014.
+21. S. Zhang, **Q. Liu**, and Y. Lin, " Anonymizing Popularity in Online Social Network With Full Utility," Future Generation Computer Systems, 2017.
 
-22. **Q. Liu**, C. C.Tan, J. Wu, and G. Wang, " Towards DifferentialQuery Services in Cost-Efficient Clouds," IEEE Transactions on Parallel and Distributed Systems,2014.
+22. **Q. Liu**, G. Wang,J. Wu," Consistency as a Service: Auditing Cloud Consistency," IEEE Transactions on Network and Service Management,2014.
 
-23. **Q. Liu**, G. Wang, and J. Wu, " Time-Based Proxy Re-encryption Scheme for Secure Data Sharing in a Cloud Environment," Information Sciences, 2014.
+23. **Q. Liu**, C. C.Tan, J. Wu, and G. Wang, " Towards DifferentialQuery Services in Cost-Efficient Clouds," IEEE Transactions on Parallel and Distributed Systems,2014.
 
-24. **Q. Liu**, C. C. Tan, J. Wu, and G. Wang, " Cooperative Private Searching in Clouds," Journal of Parallel and Distributed Computing, 2012.
+24. **Q. Liu**, G. Wang, and J. Wu, " Time-Based Proxy Re-encryption Scheme for Secure Data Sharing in a Cloud Environment," Information Sciences, 2014.
 
-25. **Q. Liu**, G. Wang, and J. Wu, "Secure and Privacy Preserving Keyword Search for Cloud Storage," Journal of Network and Computer Applications, 2012.
+25. **Q. Liu**, C. C. Tan, J. Wu, and G. Wang, " Cooperative Private Searching in Clouds," Journal of Parallel and Distributed Computing, 2012.
 
-26. G. Wang, **Q. Liu**, and J. Wu, "Hierarchical Attribute-Based Encryption and Scalable User Revocation for Sharing Data in Cloud Servers," Computers & Security, 2011.
+26. **Q. Liu**, G. Wang, and J. Wu, "Secure and Privacy Preserving Keyword Search for Cloud Storage," Journal of Network and Computer Applications, 2012.
 
-27. G. Wang, **Q. Liu**, and J. Wu, "Achieving Fine-Grained Access Control for Secure Data Sharing on Cloud Servers," Concurrency and Computation:Practice and Experience, 2011.
+27. G. Wang, **Q. Liu**, and J. Wu, "Hierarchical Attribute-Based Encryption and Scalable User Revocation for Sharing Data in Cloud Servers," Computers & Security, 2011.
+
+28. G. Wang, **Q. Liu**, and J. Wu, "Achieving Fine-Grained Access Control for Secure Data Sharing on Cloud Servers," Concurrency and Computation:Practice and Experience, 2011.
 
 **Conference Paper**
 
