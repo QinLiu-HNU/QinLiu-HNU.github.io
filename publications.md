@@ -1,6 +1,6 @@
 **Journal Paper**
 
-1. Y. Zou, **Q. Liu**, J. Wu, T. Wang, G. Chen, T. Peng, and G. Wang, "CAA: Toward Camouflaged and Transferable Adversarial Examples," IEEE Transactions on Information Forensics and Security, 2026.
+1. Y. Zou, **Q. Liu***, J. Wu, T. Wang, G. Chen, T. Peng, and G. Wang, "CAA: Toward Camouflaged and Transferable Adversarial Examples," IEEE Transactions on Information Forensics and Security, 2026.
 
 2.  **Q. Liu**, Y. Peng, M. Xu, H. Jiang, J. Wu, T. Wang, T. Peng, and G. Wang, "MPV: Enabling fine-grained query authentication in hybrid-storage blockchain," IEEE Transactions on Knowledge and Data Engineering, 2024.
 
